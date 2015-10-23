@@ -1,3 +1,4 @@
+/* class practice slide
 h1:hover {
   color: red;
 }
@@ -21,3 +22,15 @@ footer {
   border: 2px solid black;
   border-radius: 25px;
 }
+*/
+header img {
+  width: 33%;
+}
+a {
+  text-decoration: none;
+}
+nav a {
+  text-decoration: line-through;
+}
+p { color: magenta;}
+p { color: orange;}
